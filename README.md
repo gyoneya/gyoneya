@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gyoneya
+- 👀 I’m interested in games, books, photography
+- 🌱 I’m currently learning Python, frontend and backend
+- 📫 How to reach me gustavoyoneya@gmail.com
